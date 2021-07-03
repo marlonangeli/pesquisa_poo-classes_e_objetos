@@ -1,6 +1,9 @@
 # Roteiro de apresentação
 
 ## O que são?
+
+\
+\
 - ## Classe
 É um **conjunto de objetos** que possuem características **semelhantes**.
 Um **molde abstrato** que descreve propriedades e comportamentos de entidades do mundo real.
@@ -21,13 +24,20 @@ Tipo de combustível	| Frear
 Número de portas    | Abastecer
 ...                 | ...
 
-
+\
+\
 - ## Objeto
 
-É a atribuição das características de uma classe à uma variável, função ou estrutura de dados.
+É um tipo de dado, variável, função ou estrutura de dados que possui características e funcionalidades, é a caracterização de uma entidade real, onde é possível alterar seus atributos a partir dos métodos da classe em que o objeto pertence.
 
+Um carro X é um objeto que pertence à classe `Carro`, pois possui atributos e funcionalidades presentes na classe
 
-## Relação entre Classes e Objetos
+<img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/carro_vermelho.png" width=150x>
+
+\
+\
+\
+### Relação entre classes e objetos
 
 <img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/class-carro.png" width=250x>
 
@@ -47,6 +57,9 @@ O caminhão compartilha de alguns atributos dos carros, como **motor**, **farói
 
 Assim podemos perceber a herança na orientação à objetos, onde `Veiculo` seria a classe mãe, e seus filhos `Carro`, `Caminhão`, `Motocicleta`...
 
+\
+\
+\
 ## Instância de uma classe
 
 >"[...] objects are instantiated from a class, and each object is referred to as an instance of the class". - [Diane Zak](https://books.google.com.br/books?id=o_q5BwAAQBAJ&pg=PA552&dq=OOP%20instance%20terminology&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=OOP%20instance%20terminology&f=false)
@@ -55,33 +68,28 @@ Assim podemos perceber a herança na orientação à objetos, onde `Veiculo` ser
 
 A definição de instância de classe e objeto é um tanto quanto confusa, há uma linha tênue entre as duas definições, na qual ambas podem ser intercambiáveis sem estar completamente corretas ou incorretas, de maneira mais clara, é possível dizer que a instância de uma classe é a ação de criar o objeto, e o objeto é a instanciação da classe, é o produto físico que veio do molde.
 
+<img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/instancia_carro.png" width=150x>
+
 Utilizando o exemplo da classe `Carro`, podemos atribuir o significado de instância da classe à fábrica do carro, e o objeto ao carro em si. A fábrica é responsável por realizar a montagem das peças e acessórios segundo o molde de criação, assim, podemos dizer que instanciar uma classe é fazer a atribuição das características à um objeto, e o objeto seria o carro fabricado a partir do molde da fábrica e com atributos que o diferenciam dos demais carros.
 
 > "Mas e se todos os atributos forem iguais?"
 
 Nada impede de termos dois objetos iguais, mas é errado dizer que são o mesmo objeto, já que possuem identificadores diferentes, o carro possui a placa de identificação e o objeto tem sua refência ao local armazenado em memória.
 
+\
+\
+\
+## Declaração de classe
+
+
+
 ## Propriedades e Métodos
 
 
-### collapsible markdown?
-<details><summary>CLICK ME</summary>
-<p>
 
-#### Conteúdo
-`print("hello")`
-</p>
-</details>
-
-
-
-
-
-
-
-
-
-
+\
+\
+\
 # Referências
 - Definição de classes e objetos:
 

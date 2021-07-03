@@ -1,0 +1,16 @@
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/codigos
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/codigos.deps.json
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/codigos.runtimeconfig.json
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/codigos.runtimeconfig.dev.json
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/codigos.dll
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/ref/codigos.dll
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/bin/Debug/net5.0/codigos.pdb
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.csproj.AssemblyReference.cache
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.GeneratedMSBuildEditorConfig.editorconfig
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.AssemblyInfoInputs.cache
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.AssemblyInfo.cs
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.csproj.CoreCompileInputs.cache
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.dll
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/ref/codigos.dll
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.pdb
+/home/marlon/Dropbox/UTFPR/pesquisa_poo-classes_e_objetos/codigos/obj/Debug/net5.0/codigos.genruntimeconfig.cache
