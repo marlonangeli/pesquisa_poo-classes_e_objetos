@@ -1,9 +1,9 @@
 # Roteiro de apresentação
+<br>
 
 ## O que são?
+<br>
 
-\
-\
 - ## Classe
 É um **conjunto de objetos** que possuem características **semelhantes**.
 Um **molde abstrato** que descreve propriedades e comportamentos de entidades do mundo real.
@@ -24,19 +24,18 @@ Tipo de combustível	| Frear
 Número de portas    | Abastecer
 ...                 | ...
 
-\
-\
+<br>
+
 - ## Objeto
 
-É um tipo de dado, variável, função ou estrutura de dados que possui características e funcionalidades, é a caracterização de uma entidade real, onde é possível alterar seus atributos a partir dos métodos da classe em que o objeto pertence.
+É um tipo de dado, variável, função ou estrutura de dados que possui características e funcionalidades, é a referência de uma entidade real, onde é possível alterar seus atributos a partir dos métodos da classe em que o objeto pertence.
 
 Um carro X é um objeto que pertence à classe `Carro`, pois possui atributos e funcionalidades presentes na classe
 
 <img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/carro_vermelho.png" width=150x>
 
-\
-\
-\
+<br>
+
 ### Relação entre classes e objetos
 
 <img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/class-carro.png" width=250x>
@@ -57,9 +56,8 @@ O caminhão compartilha de alguns atributos dos carros, como **motor**, **farói
 
 Assim podemos perceber a herança na orientação à objetos, onde `Veiculo` seria a classe mãe, e seus filhos `Carro`, `Caminhão`, `Motocicleta`...
 
-\
-\
-\
+<br><br><br>
+
 ## Instância de uma classe
 
 >"[...] objects are instantiated from a class, and each object is referred to as an instance of the class". - [Diane Zak](https://books.google.com.br/books?id=o_q5BwAAQBAJ&pg=PA552&dq=OOP%20instance%20terminology&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=OOP%20instance%20terminology&f=false)
@@ -76,20 +74,16 @@ Utilizando o exemplo da classe `Carro`, podemos atribuir o significado de instâ
 
 Nada impede de termos dois objetos iguais, mas é errado dizer que são o mesmo objeto, já que possuem identificadores diferentes, o carro possui a placa de identificação e o objeto tem sua refência ao local armazenado em memória.
 
-\
-\
-\
+<br><br><br>
+
 ## Declaração de classe
 
-
+<br><br><br>
 
 ## Propriedades e Métodos
 
+<br><br><br>
 
-
-\
-\
-\
 # Referências
 - Definição de classes e objetos:
 
@@ -105,9 +99,3 @@ Nada impede de termos dois objetos iguais, mas é errado dizer que são o mesmo 
 
 [Stack Overflow](https://pt.stackoverflow.com/questions/192233/diferen%C3%A7a-entre-objeto-e-inst%C3%A2ncia)\
 [Wikipedia](https://pt.wikipedia.org/wiki/Inst%C3%A2ncia_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5NjY1MTE3XX0=
--->
