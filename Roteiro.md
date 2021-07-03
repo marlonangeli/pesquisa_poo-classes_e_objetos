@@ -29,21 +29,19 @@ Número de portas    | Abastecer
 
 ## Relação entre Classes e Objetos
 
-<!--todo converter as imagens em png-->
-
-<img src="imagens/class-carro.png" width=250x>
+<img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/class-carro.png" width=250x>
 
 Modelo abstrato de um carro
 x | Carro 1 | Carro 2 | Carro 3
 --- | --- | --- | ---
-Objeto | <img src="imagens/carro_vermelho.png" width=250x> | <img src="imagens/carro_azul.png" width=250x> | <img src="imagens/carro_verde.png" width=250x>
+Objeto | <img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/carro_vermelho.png" width=250x> | <img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/carro_azul.png" width=250x> | <img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/carro_verde.png" width=250x>
 Cor | Vermelho | Azul | Verde
 Motor | 1.0 | 1.6 | 2.0
 Combustível | Gasolina | Flex | Gasolina
 Nº de portas | 4 | 2 | 2
 
 
-<img src="imagens/caminhao.png" width=150x>
+<img src="https://github.com/marlonangeli/pesquisa_poo-classes_e_objetos/blob/main/imagens/caminhao.png" width=150x>
 
 O caminhão compartilha de alguns atributos dos carros, como **motor**, **faróis**, **motorista**, **combustível** porém propriedades como **tamanho**, **número de rodas** e **carroceria** o diferem o suficiente para classificá-lo como outro veículo.
 
@@ -90,7 +88,8 @@ Nada impede de termos dois objetos iguais, mas é errado dizer que são o mesmo 
 [Alura](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?gclid=Cj0KCQjw8vqGBhC_ARIsADMSd1DKHbAbBqeFu9Imi7Rl_vl6o8CZKuDUyvs9L8iyFZ_naxn91V52FUkaAnmcEALw_wcB)\
 [DCA/Unicamp](https://www.dca.fee.unicamp.br/cursos/PooJava/classes/conceito.html)\
 [Wikipedia - Classe](https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o))\
-[Wikipedia - Objeto](https://pt.wikipedia.org/wiki/Objeto_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))
+[Wikipedia - Objeto](https://pt.wikipedia.org/wiki/Objeto_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))\
+[Facom/UFU](http://www.facom.ufu.br/~elaine/disc/POO/Aula3-POO-ConceitosBasicos.pdf)
 
 - Relação entre classes e objetos:
 
