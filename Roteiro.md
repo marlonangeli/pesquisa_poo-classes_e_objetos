@@ -316,30 +316,33 @@ Console.WriteLine(palavra.Length);  // Obtém o tamanho da string com a propried
 
 # Referências
 
-- Geral:
-Udemy:
-[Introdução ao C# - Módulo 1](https://www.udemy.com/share/102YvK2@PkdgV2JbTFYGd0dBAnZOfT5uY1Q=/)/
-[Introdução ao C# - Módulo 2](https://www.udemy.com/share/103obo2@PUdjfVpcSV0KckVCBkhNfT5uY1c=/)
+### Geral:
+
+- [Introdução ao C# - Módulo 1](https://www.udemy.com/share/102YvK2@PkdgV2JbTFYGd0dBAnZOfT5uY1Q=/)
+- [Introdução ao C# - Módulo 2](https://www.udemy.com/share/103obo2@PUdjfVpcSV0KckVCBkhNfT5uY1c=/)
 
 
-- Definição de classes e objetos:
+### Definição de classes e objetos:
 
-[Alura](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?gclid=Cj0KCQjw8vqGBhC_ARIsADMSd1DKHbAbBqeFu9Imi7Rl_vl6o8CZKuDUyvs9L8iyFZ_naxn91V52FUkaAnmcEALw_wcB)\
-[DCA/Unicamp](https://www.dca.fee.unicamp.br/cursos/PooJava/classes/conceito.html)\
-[Wikipedia - Classe](https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o))\
-[Wikipedia - Objeto](https://pt.wikipedia.org/wiki/Objeto_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))\
-[Facom/UFU](http://www.facom.ufu.br/~elaine/disc/POO/Aula3-POO-ConceitosBasicos.pdf)
+- [Alura](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?gclid=Cj0KCQjw8vqGBhC_ARIsADMSd1DKHbAbBqeFu9Imi7Rl_vl6o8CZKuDUyvs9L8iyFZ_naxn91V52FUkaAnmcEALw_wcB)
+- [DCA/Unicamp](https://www.dca.fee.unicamp.br/cursos/PooJava/classes/conceito.html)
+- [Wikipedia - Classe](https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o))
+- [Wikipedia - Objeto](https://pt.wikipedia.org/wiki/Objeto_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)) 
+- [Facom/UFU](http://www.facom.ufu.br/~elaine/disc/POO/Aula3-POO-ConceitosBasicos.pdf)
 
-- Relação entre classes e objetos:
 
-[WikiBooks](https://pt.wikibooks.org/wiki/Programa%C3%A7%C3%A3o_Orientada_a_Objetos/Classes_e_Objetos)
+### Relação entre classes e objetos:
 
-- Instância de uma classe:
+- [WikiBooks](https://pt.wikibooks.org/wiki/Programa%C3%A7%C3%A3o_Orientada_a_Objetos/Classes_e_Objetos)
 
-[Stack Overflow](https://pt.stackoverflow.com/questions/192233/diferen%C3%A7a-entre-objeto-e-inst%C3%A2ncia)\
-[Wikipedia](https://pt.wikipedia.org/wiki/Inst%C3%A2ncia_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))
 
-- Propriedades e métodos:
+### Instância de uma classe:
 
-[Docs.Microsoft](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/using-properties#the-set-accessor)
-[Macoratti.net](http://www.macoratti.net/17/01/c_camprop1.htm)
+- [Stack Overflow](https://pt.stackoverflow.com/questions/192233/diferen%C3%A7a-entre-objeto-e-inst%C3%A2ncia)
+- [Wikipedia](https://pt.wikipedia.org/wiki/Inst%C3%A2ncia_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))
+
+
+### Propriedades e métodos:
+
+- [Docs.Microsoft](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/using-properties#the-set-accessor)
+- [Macoratti.net](http://www.macoratti.net/17/01/c_camprop1.htm)
