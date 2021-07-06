@@ -1,6 +1,8 @@
 # Roteiro de apresentação
 [Slides da apresentação](https://docs.google.com/presentation/d/17nuVnHW6ZfLs4QFkurTPuFNPO7pE62gBzA6wTqtBMG4/edit?usp=sharing)
 
+[Dropbox](https://www.dropbox.com/sh/3sa0kq8n87d6rkp/AABY4iUQVJ8duV3AlHmvnmV5a?dl=0)
+
 <br>
 
 ## O que são?
